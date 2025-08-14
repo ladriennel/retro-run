@@ -55,3 +55,9 @@ Thumbs.db
 # Build artifacts
 build/
 dist/
+
+# Replit files
+.replit
+.breakpoints
+.upm/
+.cache/
