@@ -26,4 +26,4 @@ java -cp target/classes:src/main/resources Main
 
 ## Goal
 
-Unlock the last door each the top-right corner to win!
+Unlock the last door at the top-right corner to win!
