@@ -4,6 +4,12 @@ A Java Swing-based platformer game where players navigate through challenging ob
 
 ## How to Run
 
+### With Maven 
+```bash
+mvn compile exec:java
+```
+
+### With Java directly
 ```bash
 # Compile
 javac -d target/classes -cp src/main/resources src/main/java/*.java
